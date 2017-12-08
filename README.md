@@ -8,6 +8,7 @@ This code based on ROS message_generation.
 - msg_gen.py: based on /ros_comm/clients/roscpp/rosbuild/scripts/msg_gen/py in https://github.com/ros/ros_comm.git
 
 ### Imported packages
+[ROS: roslib](https://github.com/m-yuya/ros_packages)
 - roslib: based on https://github.com/ros-infrastructure/rospkg.git
 - rospkg: based on https://github.com/ros-infrastructure/rospkg.git
 - catkin: based on https://github.com/ros/catkin.git
