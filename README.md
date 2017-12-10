@@ -9,10 +9,10 @@ This code based on ROS message_generation.
 
 ### Imported packages
 [ROS: roslib](https://github.com/m-yuya/ros_packages)
-- roslib: based on https://github.com/ros-infrastructure/rospkg.git
+- roslib: based on https://github.com/ros/ros.git
 - rospkg: based on https://github.com/ros-infrastructure/rospkg.git
 - catkin: based on https://github.com/ros/catkin.git
-- catkin_pkg: based on  https://github.com/ros/catkin.git
+- catkin_pkg: based on https://github.com/ros-infrastructure/catkin_pkg.git
 
 ## How to use
 
